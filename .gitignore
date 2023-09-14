@@ -1,0 +1,14 @@
+*.txt
+.ipynb_checkpoints
+.bashrc
+.cache/
+.config/
+.docker/
+.gitconfig
+.ipython/
+.jupyter/
+.keras/
+.local/
+.npm/
+.ssh/
+.viminfo
